@@ -1,0 +1,14 @@
+C:\Users\flopi\source\repos\Obl1\Obl1\bin\Debug\net6.0\Obl1.exe
+C:\Users\flopi\source\repos\Obl1\Obl1\bin\Debug\net6.0\Obl1.deps.json
+C:\Users\flopi\source\repos\Obl1\Obl1\bin\Debug\net6.0\Obl1.runtimeconfig.json
+C:\Users\flopi\source\repos\Obl1\Obl1\bin\Debug\net6.0\Obl1.dll
+C:\Users\flopi\source\repos\Obl1\Obl1\bin\Debug\net6.0\Obl1.pdb
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.AssemblyInfoInputs.cache
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.AssemblyInfo.cs
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.csproj.CoreCompileInputs.cache
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.dll
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\refint\Obl1.dll
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.pdb
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\Obl1.genruntimeconfig.cache
+C:\Users\flopi\source\repos\Obl1\Obl1\obj\Debug\net6.0\ref\Obl1.dll
